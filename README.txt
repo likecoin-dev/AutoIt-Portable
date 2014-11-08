@@ -4,8 +4,8 @@ AutoIt Portable Workstation
   AIP allows you to carry a light AutoIt script editor and compiler 
   with you to use on the fly. This program can run x86 and x64 au3 
   scripts  or compile them to EXE. When the program is launched, it 
-  will create  a temp work folder in the script directory. Once the 
-  program isclosed this folder will be automatically deleted. When 
+  will create a temp work folder in the script directory. Once the 
+  program is closed this folder will be automatically deleted. When 
   you compile a script it will output in the the script directory in 
   a folder named "compiled".
   
