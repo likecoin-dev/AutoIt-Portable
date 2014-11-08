@@ -13,13 +13,15 @@ AutoIt Portable Workstation
   directory in a folder named "compiled".
   
 AIP Current Version: 
-  0.0.1
+  0.0.2
+  
+Version 0.0.2 Updates:
+  Added several options to the compiler.
 
 AutoIt Version Compatability:
   Up to v3.3.12.0
   
 Planned Updates:
-  More options in the compiler gui.
   Script editor font appearance.
   Automaticly color coded tags in editor
 
