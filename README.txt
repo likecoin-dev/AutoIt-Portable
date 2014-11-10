@@ -12,9 +12,12 @@ AutoIt Portable Workstation
   When you compile a script it will output in the the script 
   directory in a folder named "compiled".
   
-AIP Current Version: 
-  0.0.2
-  
+AIP Current Version:
+  0.0.3
+
+Version 0.0.3 Updates:
+  Added code suggestions as you type.
+
 Version 0.0.2 Updates:
   Added several options to the compiler.
 
