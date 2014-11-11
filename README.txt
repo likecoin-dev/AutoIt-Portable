@@ -13,7 +13,12 @@ AutoIt Portable Workstation
   directory in a folder named "compiled".
   
 AIP Current Version:
-  0.0.3
+  0.0.4
+
+Version 0.0.4 Updates:
+  Enhanced code suggestions and also added a, "custom-includes", folder
+  for any includes(UDF's) you want to add. They are imported instantly
+  even if AIP is already running.
 
 Version 0.0.3 Updates:
   Added code suggestions as you type.
